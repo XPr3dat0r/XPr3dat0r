@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> -->
 <br />
 
-![image](abc)
+![image](![image](https://user-images.githubusercontent.com/70958044/179686172-b697f9b4-be60-47ce-af6c-d34fa2db84db.png))
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XPr3dat0r)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/XPr3dat0r)
@@ -26,24 +26,6 @@ I go online by the alias @x0rby7e. I'm a third year pursuing Bachelor's in Compu
 * [Abusing Two Factor Authentication](https://infosecwriteups.com/abusing-two-factor-authentication-d26113c97607)<br>
 * [Introduction to CSRF ](https://x0rby7e.medium.com/introduction-csrf-csrf-cross-site-request-forgery-is-a-kind-of-web-application-vulnerability-ddae48178f99)
 
-
-### :mag_right: CVE's
-
-* [CVE-2021-43137](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43137) <br>
-* [CVE-2021-43451](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-43451)
- 
-### :syringe: Exploits published on Exploit-db
-
-* https://www.exploit-db.com/exploits/50467 <br>
-* https://www.exploit-db.com/exploits/50461
-
-### :microscope: Project
-
-[Project Morya](https://github.com/XPr3dat0r/project-morya) is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized. Project includes notification feature, which gives notification about the output of the tools on your discord/slack/telegram server.
-
-### :pushpin: Current Challenge
-
-[Learn365](https://github.com/XPr3dat0r/learn365) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
