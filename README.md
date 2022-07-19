@@ -2,7 +2,8 @@
 <!-- <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> -->
 <br />
 
-![image](![image](https://user-images.githubusercontent.com/70958044/179686172-b697f9b4-be60-47ce-af6c-d34fa2db84db.png))
+![image](![image](![image](https://user-images.githubusercontent.com/70958044/179686612-52c1cca3-91a1-4331-8169-4e152f35b061.png)
+))
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XPr3dat0r)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/XPr3dat0r)
