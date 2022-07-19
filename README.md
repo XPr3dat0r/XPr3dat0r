@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> -->
 <br />
 
-![image](https://user-images.githubusercontent.com/65735854/134823562-0fc98c3a-3ded-48a4-92c7-df347e93648a.png)
+![image](abc)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XPr3dat0r)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/XPr3dat0r)
