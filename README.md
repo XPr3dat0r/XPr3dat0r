@@ -1,27 +1,70 @@
-### Hi there 👋, I'm Pratik Aka X0rby7ee.  <br>
+# Hello, This is Pratik 
+<!-- <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> -->
+<br />
 
-<p align="left"> <a href="https://twitter.com/x0rby7ee" target="blank"><img src="https://img.shields.io/twitter/follow/x0rby7ee?logo=twitter&style=for-the-badge" alt="x0rby7ee" /></a> </p>
+![image](https://user-images.githubusercontent.com/65735854/134823562-0fc98c3a-3ded-48a4-92c7-df347e93648a.png)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XPr3dat0r)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/XPr3dat0r)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=XPr3dat0r&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/XPr3dat0r/XPr3dat0r?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2330DCCE&lines=|Glad+to+see+you+here!%20:)&center=true&size=30">
+  </a>
+</h1>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+I go online by the alias @x0rby7e. I'm a third year pursuing Bachelor's in Computer Science :mortar_board:. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  I love to find :mag: security issues in web applications 🕸️ and contribute to the infosec community in any way I can. I like working in 🐧️ Linux Environment. I always look forward to learn and experiment stuff with like-minded people and expand my spectrum of knowledge 🤓
+
+### :closed_book: Write-ups
+
+* [AWS Lambda: A Serverless Framework](https://x0rby7e.medium.com/aws-lambda-a-serverless-framework-d70c111a42f3)<br>
+* [Access control vulnerabilities Mindmap](https://infosecwriteups.com/access-control-vulnerabilities-mindmap-a0d177a31036)<br>
+* [Abusing Two Factor Authentication](https://infosecwriteups.com/abusing-two-factor-authentication-d26113c97607)<br>
+* [Introduction to CSRF ](https://x0rby7e.medium.com/introduction-csrf-csrf-cross-site-request-forgery-is-a-kind-of-web-application-vulnerability-ddae48178f99)
 
 
-🔭 *Currently working on*:   Cloud Security
+### :mag_right: CVE's
+
+* [CVE-2021-43137](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43137) <br>
+* [CVE-2021-43451](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-43451)
  
-🌱 *Currently Learning*: Web3 Security
+### :syringe: Exploits published on Exploit-db
 
-💬 Ask me about: Bug Bounties, AWS Cloud, VAPT, Red-Teaming 
+* https://www.exploit-db.com/exploits/50467 <br>
+* https://www.exploit-db.com/exploits/50461
 
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email]({Pratikg7518@gmail.com})
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/x0rby7ee)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/pratikcct)
+### :microscope: Project
+
+[Project Morya](https://github.com/XPr3dat0r/project-morya) is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized. Project includes notification feature, which gives notification about the output of the tools on your discord/slack/telegram server.
+
+### :pushpin: Current Challenge
+
+[Learn365](https://github.com/XPr3dat0r/learn365) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life.
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=XPr3dat0r&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+ -->
  
-😄 Pronouns: He/Him <br>
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=XPr3dat0r&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=XPr3dat0r&theme=dark&hide_border=true" width = 400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XPr3dat0r&theme=dark&hide_border=true" />
+</p>
 
-⚡ Skills: Penetration Testing - Web Application | API |Thick Client | Internal & External Network | Cloud & Containers
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XPr3dat0r) 
 
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xpr3dat0r&show_icons=true&locale=en&layout=compact" alt="xpr3dat0r" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xpr3dat0r&show_icons=true&locale=en" alt="xpr3dat0r" /></p>
+<h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/XPr3dat0r/XPr3dat0r/main/images/handshake.gif" height="32px"></h3>
+<p align="center">
+  
+<a href="https://twitter.com/x0rby7ee"><img src="https://img.shields.io/badge/-@pratik?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/pratikcct"><img src="https://img.shields.io/badge/-pratik?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:infosec.pratik@gmail.com"><img src="https://img.shields.io/badge/-infosec.pratik@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://x0rby7e.medium.com"><img src="https://img.shields.io/badge/-@x0rby7e?style=flat&logo=medium&logoColor=white"/></a>
+<!-- <a href="https://instagram.com/x0rby7e"><img src="https://img.shields.io/badge/-@x0rby7e?style=flat&logo=Instagram&logoColor=white"/></a> -->
+  
+ </p>
